@@ -1,0 +1,52 @@
+.herb-link {
+    color: rgba(73, 248, 50, 0.884);
+}
+
+.checked {
+    color: orange;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.white-text {
+    color: white;
+}
+
+.orange-background {
+    background: orange;
+    color: orange;
+}
+
+.info-page {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+.green-border {
+    border: 2px solid rgb(0, 255, 34); 
+    padding: 25px;
+}
+
+p {
+    font-size: 250%;
+}
+
+.break-line {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(70, 66, 66, 0), rgba(16, 151, 16, 0.75), rgba(70, 66, 66, 0));
+}
+
+.disabled-link {
+    pointer-events: none;
+}
